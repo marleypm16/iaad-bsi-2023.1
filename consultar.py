@@ -63,5 +63,5 @@ def consultar():
 def main():
     consultar()
 
-if _name_ == "main":
+if __name__ == "main":
     main()
